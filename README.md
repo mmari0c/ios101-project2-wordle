@@ -2,18 +2,18 @@
 
 Submitted by: Mario Nolasco
 
-Wordle is an app that ... [TODO] 
+Wordle is an app that mimics the popular game of the same name, where players try to guess a hidden word. After each guess, the game provides hints indicating whether a letter is not in the word, is in the word but in the wrong position, or is in the correct position.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mario Nolasco Cortez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
